@@ -7,3 +7,5 @@ It's a bunnymark test about rendering performance for some game engines(Currentl
 <br>Unity  v5.3.5f1 : max 800 bunnies 
 <br>Cocos2d-x v3.10 : max 1800 bunnies
 
+<br><br>benchmark video: 
+<br> <a href=https://www.youtube.com/watch?v=YP3lpPTKw1w&feature=youtu.be>https://www.youtube.com/watch?v=YP3lpPTKw1w</a>
