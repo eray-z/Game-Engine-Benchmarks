@@ -1,0 +1,6 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="BenchmarkTest" preserve="all"/>
+<type fullname="FPSDisplay" preserve="all"/>
+</assembly>
+</linker>
